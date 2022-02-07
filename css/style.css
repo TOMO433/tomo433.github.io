@@ -1,0 +1,207 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: black;
+}
+
+.wall {
+}
+
+a:link {
+  color: white;
+}
+
+a:active {
+  color: white;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+a {
+  color: rgb(184, 184, 184);
+  text-decoration: none;
+}
+
+.nav {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(77, 77, 77);
+  opacity: 80%;
+}
+
+.nav2 {
+  display: flex;
+  width: 100%;
+  margin: 15px;
+  margin-right: 85%;
+  color: rgb(184, 184, 184);
+  font-family: cursive;
+  letter-spacing: 2px;
+  justify-content: space-around;
+}
+
+.tomolink {
+  margin: 0px;
+  letter-spacing: 0px;
+  color: white;
+}
+
+.tomo433 {
+  color: rgb(184, 184, 184);
+  position: absolute;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex: auto;
+  margin: 42%;
+  margin-top: 23%;
+  font-size: 30px;
+}
+.desc {
+  margin-top: 25%;
+  position: absolute;
+  font-size: 23px;
+}
+
+.progress {
+  color: rgb(184, 184, 184);
+  position: absolute;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin: 1%;
+  margin-top: 17%;
+}
+
+.lang {
+  margin-top: 50%;
+  width: 300px;
+  height: 300px;
+  padding: -1px;
+  margin-top: 5%;
+  text-align: left;
+  right: 25px;
+}
+
+.html {
+  display: flex;
+  background-color: rgb(49, 49, 49);
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 119, 255) 75%,
+    rgb(49 49 49) 5%
+  );
+  width: 200px;
+  height: 32px;
+  border-radius: 25px;
+  margin: 20px;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+.css {
+  display: flex;
+  background-color: rgb(49, 49, 49);
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 119, 255) 70%,
+    rgb(49 49 49) 5%
+  );
+  width: 200px;
+  height: 32px;
+  border-radius: 25px;
+  margin: 20px;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+.js {
+  display: flex;
+  background-color: rgb(49, 49, 49);
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 119, 255) 5%,
+    rgb(49 49 49) 5%
+  );
+  width: 200px;
+  height: 32px;
+  border-radius: 25px;
+  margin: 20px;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+.lua {
+  display: flex;
+  background-color: rgb(49, 49, 49);
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 119, 255) 60%,
+    rgb(49 49 49) 5%
+  );
+  width: 200px;
+  height: 32px;
+  border-radius: 25px;
+  margin: 20px;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+.python {
+  display: flex;
+  background-color: rgb(49, 49, 49);
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 119, 255) 15%,
+    rgb(49 49 49) 5%
+  );
+  width: 200px;
+  height: 32px;
+  border-radius: 25px;
+  margin: 20px;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+i {
+  width: 80px;
+  height: 80px;
+}
+
+.social-discord {
+  position: absolute;
+  font-size: 20px;
+  font-family: sans-serif;
+  left: 95%;
+  margin-top: 17%;
+}
+
+.social-github {
+  position: absolute;
+  font-size: 20px;
+  font-family: sans-serif;
+  left: 94.8%;
+  margin-top: 21%;
+}
+
+.social-mail {
+  position: absolute;
+  font-size: 20px;
+  font-family: sans-serif;
+  left: 94.9%;
+  margin-top: 26%;
+}
+
+.social-insta {
+  position: absolute;
+  font-size: 20px;
+  font-family: sans-serif;
+  left: 95%;
+  margin-top: 31%;
+}
+
+/*Made with <3 by TOMO433*/
