@@ -10,17 +10,27 @@ body {
 .wall {
 }
 
+::selection {
+  background: #b8b8b8; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #b8b8b8; /* Gecko Browsers */
+}
+
 a:link {
-  color: white;
+  color: rgb(184, 184, 184);
 }
 
 a:active {
-  color: white;
+  color: rgb(184, 184, 184);
+}
+
+a:visited {
+  color: rgb(184, 184, 184);
 }
 
 a:hover {
-  color: white;
-  text-decoration: underline;
+  color: rgb(211, 211, 211);
 }
 
 a {
@@ -194,6 +204,7 @@ i {
   font-family: sans-serif;
   left: 94.9%;
   margin-top: 26%;
+  color: rgb(184, 184, 184);
 }
 
 .social-insta {
