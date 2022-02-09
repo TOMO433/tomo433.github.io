@@ -94,7 +94,6 @@ a {
 .footer {
   position: absolute;
   display: flex;
-  background-color: rgb(77, 77, 77);
   opacity: 50%;
   height: 10%;
   width: 100%;
@@ -107,6 +106,7 @@ a {
   display: flex;
   flex: auto;
   margin-top: 2.5%;
+  color: rgb(49, 49, 49);
 }
 
 .lang {
