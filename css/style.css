@@ -87,8 +87,26 @@ a {
   position: absolute;
   font-size: 20px;
   font-family: sans-serif;
-  margin: 1%;
-  margin-top: 17%;
+  margin: 3%;
+  top: 29%;
+}
+
+.footer {
+  position: absolute;
+  display: flex;
+  background-color: rgb(77, 77, 77);
+  opacity: 50%;
+  height: 10%;
+  width: 100%;
+  top: 100%;
+}
+
+.copyright {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex: auto;
+  margin-top: 2.5%;
 }
 
 .lang {
@@ -186,7 +204,7 @@ i {
   position: absolute;
   font-size: 20px;
   font-family: sans-serif;
-  left: 95%;
+  left: 93%;
   margin-top: 17%;
 }
 
@@ -194,7 +212,7 @@ i {
   position: absolute;
   font-size: 20px;
   font-family: sans-serif;
-  left: 94.8%;
+  left: 92.8%;
   margin-top: 21%;
 }
 
@@ -202,7 +220,7 @@ i {
   position: absolute;
   font-size: 20px;
   font-family: sans-serif;
-  left: 94.9%;
+  left: 92.9%;
   margin-top: 26%;
   color: rgb(184, 184, 184);
 }
@@ -211,7 +229,7 @@ i {
   position: absolute;
   font-size: 20px;
   font-family: sans-serif;
-  left: 95%;
+  left: 93%;
   margin-top: 31%;
 }
 
