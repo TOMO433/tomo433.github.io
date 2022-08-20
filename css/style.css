@@ -124,7 +124,7 @@ a {
   background-color: rgb(49, 49, 49);
   background-image: linear-gradient(
     to right,
-    rgb(0, 119, 255) 75%,
+    rgb(0, 119, 255) 98%,
     rgb(49 49 49) 5%
   );
   width: 200px;
@@ -139,7 +139,7 @@ a {
   background-color: rgb(49, 49, 49);
   background-image: linear-gradient(
     to right,
-    rgb(0, 119, 255) 70%,
+    rgb(0, 119, 255) 85%,
     rgb(49 49 49) 5%
   );
   width: 200px;
@@ -154,8 +154,8 @@ a {
   background-color: rgb(49, 49, 49);
   background-image: linear-gradient(
     to right,
-    rgb(0, 119, 255) 5%,
-    rgb(49 49 49) 5%
+    rgb(0, 119, 255) 2%,
+    rgb(49 49 49) 1%
   );
   width: 200px;
   height: 32px;
